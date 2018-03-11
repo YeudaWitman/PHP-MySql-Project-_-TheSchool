@@ -1,0 +1,33 @@
+.col-xl-8,
+.col-xl-9,
+.col-xl-2,
+.col-xl-3 {
+  background-color: #d1ecf1;
+  border: 3px double #17a2b8;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  min-height: 600px;
+}
+
+.col-xl-6 {
+  background-color: #d1ecf1;
+  border: 3px double #17a2b8;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+footer {
+  margin-top: 5px;
+}
+
+.contDivBorder {
+  border: 3px double #17a2b8;
+  border-radius: 5px;
+  padding: 5px;
+}
+
